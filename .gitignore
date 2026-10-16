@@ -1,0 +1,8 @@
+build/
+quellen/
+*.pyc
+__pycache__/
+
+# Solange das Repo oeffentlich ist, gehoert die gebaute ROM NICHT hier rein.
+rom/
+*.gbc
